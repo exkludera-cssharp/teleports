@@ -6,8 +6,11 @@
 
 <details>
 	<summary>showcase</summary>
-	<img src="https://cdn.discordapp.com/attachments/1039451649254629406/1331783154822021223/ezgif-1-89378903a0.gif?ex=6792df37&is=67918db7&hm=3372037e277eee0a287dc09e3249603680bd84f259a96acf79a9a1f1efa6aaf8&" width="800">
+	<img src="https://cdn.discordapp.com/attachments/1039451649254629406/1331779174595166228/image.png?ex=6792db82&is=67918a02&hm=40585165b0f967e6073a6ec596c6e62fcb545e1ac30cd74ee513ea10bbbc3840&" width="250"> <br>
+	<img src="https://cdn.discordapp.com/attachments/1039451649254629406/1331779992283254904/image.png?ex=6792dc45&is=67918ac5&hm=661d135e89aba95ecfb997e21948400bd35027af969d213cd6ba0f0404a9fcf1&" width="250"> 
 </details>
+
+<br>
 
 ## information:
 
